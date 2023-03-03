@@ -25,3 +25,9 @@ Here is a grading scale to help you decide the letter grade the user received (f
 | C  |	60-69 |
 | D  |	50-59 |
 | U  |	under 50 |
+
+![image](https://user-images.githubusercontent.com/96468875/222719336-82160290-2dd6-4ba5-8e2d-0a050814afe8.png)
+
+![image](https://user-images.githubusercontent.com/96468875/222719470-aceb4030-527f-4238-a3d5-4b2943e0dafd.png)
+
+![image](https://user-images.githubusercontent.com/96468875/222719689-9bd64f4c-cdeb-48ad-a9b3-3f6b5fea0d8c.png)
