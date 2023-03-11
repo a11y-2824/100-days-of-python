@@ -10,3 +10,5 @@
 - Extra challenge: If the user types a negative number, exit program.
 
 #Replit100DaysOfCode
+
+![image](https://user-images.githubusercontent.com/96468875/224463906-dcd8c7bf-3d0a-4c0e-8fae-6b3d03712962.png)
