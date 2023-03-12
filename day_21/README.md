@@ -7,3 +7,5 @@
 - At the end of the 10 rounds, show the user their score out of 10 for how many math facts they got correct.
 
 #replit100daysofcode
+
+![image](https://user-images.githubusercontent.com/96468875/224526304-74f7cd9e-5868-415b-945f-b24823fec94b.png)
