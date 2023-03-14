@@ -6,3 +6,5 @@
 - We can have as many arguments as we want, separated by commas.
 
 #replit100DaysOfCode
+
+![image](https://user-images.githubusercontent.com/96468875/224871095-81968cb5-8ce3-4a02-a9c9-19618d0740d9.png)
