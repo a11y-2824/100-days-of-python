@@ -12,7 +12,7 @@
 | Recipie Maker| [Day 3](https://github.com/a11y-2824/100-days-of-python/tree/main/day_3) |
 | A Colourful Story| [Day 4](https://github.com/a11y-2824/100-days-of-python/tree/main/day_4) |
 | Which Marvel Superhero are you? | [Day 5](https://github.com/a11y-2824/100-days-of-python/tree/main/day_5) |
-| A simple Log in system | [Day 6](https://github.com/a11y-2824/100-days-of-python/tree/main/day_6) |
+| A simple Log in system | [Day 6](https://github.com/a11y-2824/100-days-of-python/tree/main/day_6), [Day 23](https://github.com/a11y-2824/100-days-of-python/tree/main/day_23) |
 | Are you a Fake Fan? | [Day 7](https://github.com/a11y-2824/100-days-of-python/tree/main/day_7) |
 | Positive Affirmations Generator | [Day 8](https://github.com/a11y-2824/100-days-of-python/tree/main/day_8) |
 | Generation Finder| [Day 9](https://github.com/a11y-2824/100-days-of-python/tree/main/day_9) |
