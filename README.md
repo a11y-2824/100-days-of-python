@@ -27,3 +27,4 @@
 | Loan Calculator | [Day 19](https://github.com/a11y-2824/100-days-of-python/tree/main/day_19) |
 | List generator | [Day 20](https://github.com/a11y-2824/100-days-of-python/tree/main/day_20) |
 | Multiplication Game | [Day 21](https://github.com/a11y-2824/100-days-of-python/tree/main/day_21) |
+| Infinity Dice | [Day 24](https://github.com/a11y-2824/100-days-of-python/tree/main/d    ay_24)
