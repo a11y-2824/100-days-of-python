@@ -7,3 +7,7 @@
 - We can use a library by writing import and then the library name.
 
 #replit100DaysOfCode
+
+![image](https://user-images.githubusercontent.com/96468875/224862951-87e2fa13-7fdf-408a-9efb-fc8fc6c630bd.png)
+
+![image](https://user-images.githubusercontent.com/96468875/224863007-b5e82b21-fb25-4989-9160-9d692c2ac9c2.png)
